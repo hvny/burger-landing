@@ -1,0 +1,10 @@
+.header__menu-item {
+    cursor: pointer;
+    text-decoration: none;
+    transition: opacity .4s;
+    color: #ffffff;
+}
+
+.header__menu-item:hover {
+    opacity: .5;
+}

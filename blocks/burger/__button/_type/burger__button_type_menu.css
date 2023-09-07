@@ -1,0 +1,6 @@
+.burger__button_type_menu {
+    width: 260px;
+    height: 62px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(218,128,35,1) 0%, rgba(226,180,56,1) 100%);
+    border-radius: 5px;
+}

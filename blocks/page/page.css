@@ -1,0 +1,10 @@
+.page {
+    max-width: 3020px;
+    max-height: min-content;
+    background-color: #191411;
+    background-image: url("../../images/bg_left.png"), url("../../images/bg_right.png");
+    background-position: left top, right top;
+    background-repeat: no-repeat, no-repeat;
+    background-size: contain, contain;
+    overflow: hidden;
+}

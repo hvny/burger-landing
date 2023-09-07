@@ -1,0 +1,9 @@
+.burger__new {
+    width: 81px;
+    height: 23px;
+    background-color: #d3320f;
+    color: #ffffff;
+    border-radius: 40px;
+    border: none;
+    font-size: 12px;
+}

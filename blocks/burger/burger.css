@@ -1,0 +1,7 @@
+.burger {
+    max-width: 1200px;
+    margin: 0 auto 10vh auto;
+    overflow: visible;
+    position: relative;
+    font-family: 'Gilroy', sans-serif;
+}

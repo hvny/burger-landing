@@ -1,0 +1,8 @@
+.burger__image {
+    width: 1286px;
+    height: 980px;
+    position: absolute;
+    top: -170px;
+    right: -330px;
+    z-index: 0;
+}

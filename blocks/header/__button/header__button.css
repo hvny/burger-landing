@@ -1,0 +1,9 @@
+.header__button {
+    width: 45px;
+    height: 45px;
+    background-color: transparent;
+    color: #ffffff;
+    border-radius: 5%;
+    border: 1px solid #ffffff;    
+    box-sizing: border-box;
+}
